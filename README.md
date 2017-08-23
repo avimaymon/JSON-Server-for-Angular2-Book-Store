@@ -1,11 +1,11 @@
-This is a JSON server for the Angular2 Book Store project.
+# This is a JSON server for the Angular2 Book Store project.
 
-To run the server use the command :
+## To run the server use the command :
 
-# H1 json-server --watch db.json
+####json-server --watch db.json
 
-To download or clone the client side you can use the following repo : 
+#### To download or clone the client side you can use the following repo : 
 
-https://github.com/avimaymon/Angular2-Book-Store
+## https://github.com/avimaymon/Angular2-Book-Store
 
-Enjoy!
+$ Enjoy!
