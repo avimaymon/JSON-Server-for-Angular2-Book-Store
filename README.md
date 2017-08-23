@@ -2,7 +2,7 @@
 
 ## To run the server use the command :
 
-### json-server --watch db.json
+### `json-server --watch db.json`
 
 ## To download or clone the client side you can use the following repo : 
 
