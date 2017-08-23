@@ -1,9 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "books": [
+    {
+      "title": "A Brief History Of Time",
+      "author": "Stephen Hawking",
+      "date": "1989",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/BriefHistoryTime.jpg/220px-BriefHistoryTime.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "A Short History Of Nearly Everything",
+      "author": "Bill Bryson",
+      "date": "2003",
+      "imageUrl": "https://images.gr-assets.com/books/1433086293l/21.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "date": "1976",
+      "imageUrl": "https://images.gr-assets.com/books/1366758096l/61535.jpg"
+    },
+    {
+      "title": "The Universe In A Nutshell",
+      "author": "Stephen Hawking",
+      "date": "2001",
+      "imageUrl": "https://images.gr-assets.com/books/1159814395l/2095.jpg",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Chariots Of The Gods Special Edition",
+      "author": "Erich Von Daniken",
+      "date": "1999",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51vwFU8DAuL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Relativity The Special And The General Theory",
+      "author": "Albert Einstein",
+      "date": "1916",
+      "imageUrl": "http://t3.gstatic.com/images?q=tbn:ANd9GcSagFFWq8DZ7w1ypHh7ESjLqt-yGXGj1BusA2CXUoVMnbMDgF-u"
+    },
+    {
+      "title": "The Elegant Universe",
+      "author": "Brian Greene",
+      "date": "1999",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/TheElegantUniverse.jpg/220px-TheElegantUniverse.jpg",
+      "id": 7
+    }
+  ]
 }
