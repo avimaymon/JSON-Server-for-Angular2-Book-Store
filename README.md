@@ -1,6 +1,8 @@
 This is a JSON server for the Angular2 Book Store project.
 
-You can download or clone it from the following repo : 
+To run the server use the command :* json-server --watch db.json
+
+To download or clone the client side you can use the following repo : 
 
 https://github.com/avimaymon/Angular2-Book-Store
 
