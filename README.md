@@ -3,6 +3,7 @@
 ## To run the server use the command :
 
 ### `json-server --watch db.json`
+#### The server is listening to port 3000
 
 ## To download or clone the client side you can use the following repo : 
 
