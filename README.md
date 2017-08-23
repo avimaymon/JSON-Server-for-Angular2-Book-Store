@@ -8,5 +8,5 @@
 ## To download or clone the client side you can use the following repo : 
 
 ### https://github.com/avimaymon/Angular2-Book-Store
-
+#### The client app will operate at port 3001
 # Enjoy!
